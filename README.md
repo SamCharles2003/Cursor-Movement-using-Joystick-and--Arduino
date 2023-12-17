@@ -14,7 +14,7 @@ move the joystick to move the cursor
 Press Joystick Button for left click
 
 REQUIREMENTS
-1)Pyautogui
-2)
+1)Pyautogui - pip install pyautogui
+2)PySerial -  pip install pyserial
 
 ENJOY!
